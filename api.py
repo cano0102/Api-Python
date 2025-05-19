@@ -1,6 +1,7 @@
 import requests
 import json
 
+print("Hola")
 url = "https://api-colombia.com/api/v1/Department"
 
 try:
